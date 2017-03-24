@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DragAndDropGame</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="instructions">Instructions</string>
+    <string name="game_instructions">Drag the directional arrows from the top right of the screen to the panel.\nYour objective is to navigate from the RED block to the GREEN block by using a sequence of commands.When you\'re finished entering the commands, press the play button\nTip: Scroll the panel to see all your moves on higher levels</string>
+
+</resources>
